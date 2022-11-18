@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+.exemplo-1 {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    padding: 0;
+    background-color: coral;
+    width: 20%;
+    height: 100%;
+    position: relative;
+}
+
+.imagem {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: calc(5% - 20%);
+    top: calc(19% - 100px);
+    
+}
+
+a {
+    color: black;
+}
+
+.exemplo-2 { 
+    
+    text-align: left;
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    left: calc(50% - 10vh);
+    top: calc(50% - 100px);
+}
+
+.exemplo-3 {
+
+    background-color: aqua;
+}
+
+span {
+    color: coral;
+}
+
+p {
+    font-size: 18px;
+}
+
+.img2 {
+    width: 60px;
+    height: 60px;
+    
+
+}
+.img3 {
+    width: 60px;
+    height: 60px;
+}
+.img4 {
+    width: 60px;
+    height: 60px;
+}
+.img1 {
+    width: 60px;
+    height: 60px;
+}
+
+.c1 {
+    text-align: left;
+    position: absolute;
+    font-family: 'Poppins' ;
+    left: calc(200% - 10vh);
+    top: calc(50% - 100px);
+}
+
+.c2 {
+    text-align: left;
+    position: absolute;
+    font-family: 'Poppins' ;
+    left: calc(200% - 10vh);
+    top: calc(50% - 100px);
+}
+
+.hbe {
+    font-family:'Poppins';
+    
+}
+
+.div3 {
+    
+    text-align: left;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    left: calc(49.5% - 10vh);
+    top: calc(80% - 100px);
+}
+
+.h44 {
+    font-family: 'Poppins' ;
+}
+
+.h11 { 
+    font-family: 'Rozha One';
+}
+
+.menu1 {
+    position: absolute;
+    font-family: 'Teko';
+    position: absolute;
+    left: calc(60% - 100px);
+    top: 490px;
+    text-align: center;
+}
+
+
+.o1 {
+    text-align: left;
+    position: absolute;
+    font-family: 'Poppins' ;
+    left: calc(200% - 10vh);
+    top: calc(50% - 100px);
+}
